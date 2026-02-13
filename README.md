@@ -1,10 +1,9 @@
-# Mare Games — GitHub Defaults
+# Mare Games — Organization GitHub Defaults
 
-This repository contains **organization-wide** GitHub defaults for Mare Games:
-- Default pull request template
-- Optional default issue templates
-- Security policy (public-facing)
+This public repository contains **organization-wide default templates** used across Mare Games repositories.
 
-These defaults apply to repositories in this organization **unless a repo provides its own templates**.
+It may include:
+- Default PR template
+- Public security reporting policy
 
-> Note: Internal development work is tracked in Jira. GitHub is used primarily for code, PR reviews, and CI.
+It intentionally does **not** contain internal project links, tooling configuration, or proprietary documentation.
