@@ -1,18 +1,15 @@
 # Security Policy — Mare Games
 
-## Supported Versions
-Security fixes are applied to currently supported/active projects only.
-
 ## Reporting a Vulnerability
-If you believe you've found a security vulnerability, please report it privately.
+Please report security vulnerabilities privately.
 
-**Preferred contact:**
-- Email: <support@maregames.co>
+Contact:
+- Email: security@maregames.example
 
-Please include:
-- A clear description of the issue
-- Steps to reproduce
-- Potential impact
-- Any suggested mitigations
+Include:
+- Description and impact
+- Steps to reproduce (if possible)
+- Affected repository/version
+- Any mitigation ideas
 
-We will acknowledge receipt and follow up as soon as possible.
+We will acknowledge receipt and follow up.
