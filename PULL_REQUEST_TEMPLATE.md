@@ -1,17 +1,19 @@
 ## Summary
 What does this PR do?
 
-## Jira
-- Ticket key (e.g., HEX-123):
-- Spec link (if applicable):
+## Why
+Why is this change needed?
 
 ## How to test
-- Steps:
-- Expected result:
+Step-by-step instructions:
+1.
+2.
+3.
 
-## Screenshots / Video (if UI/gameplay)
--
+## Evidence (if applicable)
+- Screenshots / video:
+- Logs / profiler notes:
 
-## Risk / Notes
+## Risk
 - Risk level: Low / Medium / High
 - Rollback plan:
